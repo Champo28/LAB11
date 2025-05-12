@@ -27,22 +27,7 @@ npm install
 npm run dev
 ```
 
-### Compile and Minify for Production
-
-```sh
-nano vite.config.js
-// https://vitejs.dev/config/
-export default defineConfig({
-  base: '/~a12345/LAB11/dist/',
-})
-
-npm run build
-```
-Note: Replace "12345" with your student number
-
-### Open project in browser at URL
-```
-http://daw.deei.fct.ualg.pt/~a12345/LAB11/dist/
+daw.deei.fct.ualg.pt/~a12345/LAB11/dist/
 ```
 
 ### Lint with [ESLint](https://eslint.org/)
